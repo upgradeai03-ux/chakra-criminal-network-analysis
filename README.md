@@ -1,17 +1,31 @@
+<div align="center">
+
 # CHAKRA
+
 ### AI-Powered Criminal Network Analysis & Intelligence Platform
 
 **Connect. Correlate. Investigate.**
 
-CHAKRA is an intelligence analysis platform designed to help investigators explore relationships between entities, examine connections across cases, and visualize complex criminal networks through a unified analytical workspace.
+An intelligence analysis platform for exploring entities,
+relationships, and interconnected criminal networks.
 
-By bringing entity analysis, network visualization, geospatial intelligence, and investigation workflows together, CHAKRA aims to make fragmented intelligence easier to explore, interpret, and review.
+</div>
+<div align="center">
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+
+</div>
+
+---
 
 > **Project:** CHAKRA — Criminal Network Analysis System  
 
 ---
 
-## Overview
+## 🧠 Overview
 
 Investigative information can be distributed across multiple records, entities, locations, and cases. Understanding the relationships between these elements can be challenging when information is examined in isolation.
 
@@ -143,7 +157,7 @@ Open the local address printed in the terminal.
 
 ---
 
-## Responsible AI & Security
+## 🔐 Security & Responsible AI
 
 CHAKRA is intended to support authorized intelligence analysis and human-led investigation.
 
@@ -158,7 +172,7 @@ CHAKRA is an analytical support tool, not an automated system for determining gu
 
 ---
 
-## Project Roadmap
+## 🗺️ Project Roadmap
 
 The following items represent potential development priorities and should be updated as implementation progresses.
 

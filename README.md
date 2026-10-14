@@ -8,9 +8,6 @@ CHAKRA is an intelligence analysis platform designed to help investigators explo
 By bringing entity analysis, network visualization, geospatial intelligence, and investigation workflows together, CHAKRA aims to make fragmented intelligence easier to explore, interpret, and review.
 
 > **Project:** CHAKRA — Criminal Network Analysis System  
-> **Team:** Jugaad.exe  
-> **Competition:** Smart India Hackathon 2026  
-> **Problem Statement ID:** SIH26189
 
 ---
 
@@ -176,13 +173,7 @@ The following items represent potential development priorities and should be upd
 
 ---
 
-## Team
 
-**Jugaad.exe**
-
-Developed in the context of Smart India Hackathon 2026.
-
----
 
 ## Disclaimer
 
